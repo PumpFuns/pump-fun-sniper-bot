@@ -24,7 +24,7 @@ Ensure you have the latest version of Node.js installed. Download Node.js from [
 3. Run the installation command:
 
   ```go
-  npm start
+  npm install
   ```
 
 ## Configurations
